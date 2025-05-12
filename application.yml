@@ -1,10 +1,6 @@
-spring:
-  application:
-    name: Config-Default
 eureka:
   instance:
     prefer-ip-address: true
-    appname: MERA-MANN
   client:
     fetch-registry: true
     register-with-eureka: true
